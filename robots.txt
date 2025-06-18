@@ -1,0 +1,5 @@
+Sitemap: https://jivishacancercentre.org/sitemap.xml
+Sitemap: https://jivishacancercentre.org/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
